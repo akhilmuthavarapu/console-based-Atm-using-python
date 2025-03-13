@@ -1,5 +1,4 @@
-# console-based-Atm-using-python
-Codegnan Bank ATM Simulation
+# Codegnan Bank ATM Simulation
 
 Overview
 
