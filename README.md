@@ -1,6 +1,3 @@
-Here's the **README.md** file for your **console-based ATM system** project.  
-
----
 
 # 🚀 Codegnan Bank - Console-Based ATM System 🏦💳  
 
